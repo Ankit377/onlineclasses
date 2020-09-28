@@ -8,6 +8,7 @@
 }
 .formdiv{
     position: relative;
+
 }
 .googleform{
     position: relative;
@@ -22,6 +23,8 @@
     bottom: 0px;
     
     z-index: 9;
+   
+
 }
 
 @media screen and (max-width: 360px){
