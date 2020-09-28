@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+.herotext{
+    background: linear-gradient(to bottom, #0099ff 0%, #0033cc 100%);
+}
 .formdiv{
     position: relative;
 }
