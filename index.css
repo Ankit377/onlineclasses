@@ -3,3 +3,25 @@
     padding: 0;
     box-sizing: border-box;
 }
+.formdiv{
+    position: relative;
+}
+.googleform{
+    position: relative;
+    z-index: 0;
+    
+    
+}
+.ftr{
+    position: absolute;
+    width: 100%;
+    height: 10%;
+    bottom: 0px;
+    background-color: white;
+    z-index: 9;
+}
+@media screen and (min-width: 430px){
+    .ftr{
+        height: 8%;
+    }
+}
