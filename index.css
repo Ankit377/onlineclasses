@@ -20,7 +20,7 @@
     
     z-index: 9;
 }
-@media screen and (min-width: 430px){
+@media screen and (min-width: 400px){
     .ftr{
         height: 8%;
     }
